@@ -1,0 +1,12 @@
+{
+	"name": "translatefn",
+	"version": "1.0.0",
+	"description": "Oracle Functions to autodetect and translate text.",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.33",
+		"translate": "^1.4.1"
+	}
+}
